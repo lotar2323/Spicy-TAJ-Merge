@@ -260,7 +260,7 @@ function End()
 }
 function a()
 {
-    sendMessage("Let\'s give thoes %Balls% another");
+    sendMessage("Let\'s give those %Balls% another");
     --Command:ShowVar(TempHits)
     wait(400);
     b();

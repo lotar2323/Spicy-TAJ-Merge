@@ -91,12 +91,12 @@ while(!enemadone) {
 	break;
 	case 5:
 
-	sendMessage(" squeeze that little sphinter of yours tight..."); //#EnemaChat
+	sendMessage(" squeeze that little sphincter of yours tight..."); //#EnemaChat
 	response = sendInput(" I don't want you to loose a drop!",randomInteger(20,60)); //#EnemaChat
 	break;
 	case 6:
 
-	response = sendInput(" hmmm...I wonder what a whisky enema would feel like?",randomInteger(30,60)); //#EnemaChat
+	response = sendInput(" hmmm...I wonder what a whiskey enema would feel like?",randomInteger(30,60)); //#EnemaChat
 	break;
 	case 7:
 
@@ -161,7 +161,7 @@ sendMessage(" Awe... does someone need a little break??? ",randomInteger(10,20))
 sendMessage(" lets give you a little time to absorb that water... ",randomInteger(10,20)); //#EnemaChat
 sendMessage( random("get your butt as high in the air as you can"," ass up   face down   bitch"," get your face on the ground where it belongs")); //#EnemaChat
 sendMessage(" I want it to get ALL the way in you %EmoteHappy% ",randomInteger(20,30)); //#EnemaChat
-sendMessage(" Maybe you should be squeezing  your %Balls% while you're " + random("holding that water in"," squeezing your sphinter tight"," not bearing the full pressure of the bottle"," not accepting Mistress's gift"),5); //#EnemaChat
+sendMessage(" Maybe you should be squeezing  your %Balls% while you're " + random("holding that water in"," squeezing your sphincter tight"," not bearing the full pressure of the bottle"," not accepting Mistress's gift"),5); //#EnemaChat
 sendMessage(" That wasn't a request.... it was an order %Slave% ",randomInteger(30,45)); //#EnemaChat
 sendMessage(" ok, I think thats enough"); //#EnemaChat
 sendMessage(" its time to get back to your real punishment "); //@CustomMode(full, Goto, Full)"); //#EnemaChat
@@ -204,11 +204,11 @@ function toiletEnema() {
 response = sendInput(" ut oh slave....did you evacuate yourself without permission?"); //#EnemaChat
 	while(true){
 		if(response.isLike("sorry","yeah","yes")) {
-			 sendMessage("slave it really disappoiints me when you can't follow instructions",randomInteger(5,10)); //#EnemaChat
+			 sendMessage("slave it really disappoints me when you can't follow instructions",randomInteger(5,10)); //#EnemaChat
 			 sendMessage("on the bright side we're going to get to do this again! %Lol%",randomInteger(5,10)); //#EnemaChat
 			 sendMessage("take a moment to get that last bit out",randomInteger(25,40)); //#EnemaChat
 			 sendMessage("now go refill that bag all the way to the top",randomInteger(75,90)); //#EnemaChat
-			 sendMessage("my Dearest %slave% now we get to start all overagain %Grin%",randomInteger(5,7)); //#EnemaChat
+			 sendMessage("my Dearest %slave% now we get to start all over again %Grin%",randomInteger(5,7)); //#EnemaChat
 
 
 

@@ -38,7 +38,7 @@ if( !isVar("VARIABLE_EXERCISE_TIMES"))
 			else if (answer2.containsIgnoreCase("no","nope","nah","sorry","i wish")) {
 				sendVirtualAssistantMessage("%EmoteSad%");
 				sendVirtualAssistantMessage("Then don't waste my time..");
-				//reduce merrit.... True makes it negative
+				//reduce merit.... True makes it negative
 				tempdate2.addMinute(-600);
 				changeMeritMedium(true);
 				break;}

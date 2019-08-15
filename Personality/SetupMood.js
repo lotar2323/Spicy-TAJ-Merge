@@ -67,7 +67,7 @@ if (newDay) {
         4, //Have a great hair day
         3, //Had family dinner
         4, //had family visit
-        4, //Saw som funny movies on the internet
+        4, //Saw some funny movies on the internet
         4, //Went to the zoo
         4, //Heard a new hit song
         4, //Got a massage
@@ -107,7 +107,7 @@ if (newDay) {
         2, //Had fun with the sybian yesterday
         2, //Made a sub suck lovers cock
         3, //Made a sub wear lingerie for a full day
-        3, //Had 2 subs compete in a ball busting competition, the winner didn"t get a punishment lock up period
+        3, //Had 2 subs compete in a ball busting competition, the winner didn't get a punishment lock up period
         3, //Found a new way fun self bondage scenario for you
         3, //Had a hot dream last night
         3, //Lover gave an erotic massage last night
@@ -132,7 +132,7 @@ if (newDay) {
         5, //Had a kinky evening with glitter friend
         5, //Had a sub tied with the genitalia given a healthy dose of whipping/Hot sauce
         5, //Had 2 denied subs tied, gagged and watching me getting fucked
-        5, //Didn"t have an orgasm yesterday
+        5, //Didn't have an orgasm yesterday
         5, //Had x orgasms yesterday
         5, //Made a sub ruin after x weeks of denial
     ];
@@ -145,7 +145,7 @@ if (newDay) {
         1, //Finished a great book
         1, //Had a bad day at work
         1, //A sub came without permission
-        1, //A sub didn"t do as told
+        1, //A sub didn't do as told
         1, //Had an argument with lover
         1, //Had an argument with a family member
         1, //Had an argument with a glitter friend
@@ -164,34 +164,34 @@ if (newDay) {
         2, //Poor weather
         3, //Saw a bad movie
         3, //Nothing to watch in TV
-        3, //Have an event coming that I dont wanna go to
+        3, //Have an event coming that I don't wanna go to
         3, //Went to museum, boring
         3, //Went to art gallery, boring
         3, //Went to a boring lecture
         3, //Favourite pants broke
         3, //Favourite shoes broke
-        3, //Had familiy dinner
+        3, //Had family dinner
         3, //Favourite vibrator broke
         4, //Got rejected for a date
         4, //A slave used a safeword yesterday
         4, //Tease and denied a sub, but he got a ruined by accident
-        4, //Had a threesome, wasn"t the center of attention
+        4, //Had a threesome, wasn't the center of attention
         4, //Had a sub cry yesterday
-        4, //Vibrator, battery ran out, didn"t have new ones
+        4, //Vibrator, battery ran out, didn't have new ones
         4, //A sub was late for his cleaning duties yesterday
         4, //Hair dresser cancelled an appointment
         4, //Manicure cancelled an appointment
         4, //Went shopping without buying anything
-        5, //A sub didn"t thank properly for an orgasm
-        5, //A sub didn"t do his chores
+        5, //A sub didn't thank properly for an orgasm
+        5, //A sub didn't do his chores
         5, //Lover came too fast
         5, //Lover cancelled a date
-        5, //Lover hit on glitter friend at partyce
+        5, //Lover hit on glitter friend at party
         5, //glitter friend cancelled a date
         5, //2 glitter friends had dinner without me
         5, //Boss at work, gave me extra work
         5, //An ugly tried to make a move at a party
-        5, //A new sex toy didn"t live to expectations
+        5, //A new sex toy didn't live to expectations
     ];
 
     let tempAnger = activateRandomScenario(angerScenarious, idOffset, "Anger");

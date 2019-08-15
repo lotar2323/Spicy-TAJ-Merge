@@ -90,8 +90,8 @@ switch(getVar("MXR")){
 		MXmessage(" Hello ");
 		MXmessage(" I go by Miss Kym ");
 		MXmessage(" You look just like the right victim for a healthy spanking! ");
-		MXmessage(" I do consider spankings a neccesary part of mens life ");
-		MXmessage(" They are afterall the weaker sex.. "); 
+		MXmessage(" I do consider spankings a necessary part of mens life ");
+		MXmessage(" They are after all the weaker sex.. "); 
 		doneend=true;
 		}
 	break;

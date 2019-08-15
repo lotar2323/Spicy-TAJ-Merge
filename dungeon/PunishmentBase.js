@@ -251,7 +251,7 @@ if(isVar("PunishmentActive") && getVar("PunishmentActive")==true){
 			   run("dungeon/Punishments/S"+punishmentchoice+".js");
 			break;
 			case 2:
-			//fixme impliment punishment 6
+			//fixme implement punishment 6
 			   punishmentchoice = randomInteger(1,5);
 			   run("dungeon/Punishments/M"+punishmentchoice+".js");		
 			break;
@@ -273,7 +273,7 @@ if(isVar("PunishmentActive") && getVar("PunishmentActive")==true){
 			
 			break;
 			case 4:
-			//fixme impliment other extreeme punishments
+			//fixme implement other extreme punishments
 			//1-5
 			   punishmentchoice = randomInteger(2,5);
 			   if((punishmentchoice==5) && (getVar("toyenemakit")==true))
