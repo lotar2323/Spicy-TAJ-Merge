@@ -3,7 +3,7 @@
     sendMessage("That was the last time I used your real name");
     setDate(VARIABLE_LAST_TEASE_SESSION);
     sendMessage("From now on I will use whatever pet name I see fit");
-    sendMessage("Wether that is cum lover, cocksucker or slave");
+    sendMessage("Whether that is cum lover, cocksucker or slave");
     sendMessage("Because you are a slave");
     sendMessage("My slut, cuck, plaything, chastity boy");
     sendMessage("And a lot of other lovable terms %Grin%");
@@ -22,7 +22,7 @@
     playAudio("Audio/Spicy/Starts/Intro/intro5.mp3", true);
     sendMessage("On another note", 0);
     playAudio("Audio/Spicy/Starts/Intro/intro6.mp3", true);
-    sendMessage("If you thought even for one second that my world is centered around you", 0);
+    sendMessage("If you thought even for one second that my world is centred around you", 0);
     playAudio("Audio/Spicy/Starts/Intro/intro7.mp3", true);
     sendMessage("You are dearly mistaken", 0);
     playAudio("Audio/Spicy/Starts/Intro/intro8.mp3", true);
@@ -30,7 +30,7 @@
     playAudio("Audio/Spicy/Starts/Intro/intro9.mp3", true);
     sendMessage("Not even a little bit", 0);
     playAudio("Audio/Spicy/Starts/Intro/intro10.mp3", true);
-    sendMessage("I am the center", 0);
+    sendMessage("I am the centre", 0);
     playAudio("Audio/Spicy/Starts/Intro/intro11.mp3", true);
     sendMessage("I am your focus", 0);
     playAudio("Audio/Spicy/Starts/Intro/intro12.mp3", true);

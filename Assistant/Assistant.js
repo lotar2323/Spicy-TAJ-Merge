@@ -18,14 +18,14 @@ function updatePictureSet() {
         const lastAssistantDressChange = getDate("lastAssistantDressChange");
         const date = new Date();
 
-        //If the day hasn"t changed, or if it"s midnight don"t change dress
+        //If the day hasn't changed, or if it's midnight don't change dress
         if(lastAssistantDressChange.getDay() == date.getDate() || date.getHours() < 6) {
             ASSISTANT_CURRENT_SET_ID = getVar("currentAssistantSetId");
             return;
         }
     }
 
-    //We are gonna change the dress so lets update this
+    //We are gonna change the dress so let's update this
     setDate("lastAssistantDressChange");
 
     const date = new Date();

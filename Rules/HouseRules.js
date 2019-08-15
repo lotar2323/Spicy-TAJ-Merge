@@ -25,7 +25,7 @@ showImage("Images/Spicy/HouseRules/HouseRule10.jpg", 10);
  * Always eat cum
  * Tied up in bed/plugged in bed?
  * Only eat x
- * Max of y toilet vists per day otherwise drink piss?
+ * Max of y toilet visits per day otherwise drink piss?
  * No toilet during x (night?) otherwise drink piss
  * Always wear panties / bra
  *

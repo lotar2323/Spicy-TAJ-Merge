@@ -53,7 +53,7 @@ function main()
     --UNINTERPRETED LINE:@Variable[SubPain]>=[1] @NullResponse @SetVar[Times]=[5]
 	*/
     sendMessage(random("You\'re going to smack those %Balls% ", "You\'ll soon be swatting those %Balls% ", "In a moment you\'re going to hit those %Balls% ") );
-	//decide to hit with rythm or at Mistresses whim
+	//decide to hit with rhythm or at Mistresses whim
 	setVar("SmackCadence", randomInteger(0,1));
 	if(getVar("SmackCadence")==1) {
 		sendMessage("I\'ll count them for you ");
